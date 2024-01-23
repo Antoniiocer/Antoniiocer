@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">How ya doing!<br>Since I was little, I've been passionate about programming and the tech industry💻. In 2022, I started studying in a Web Applications Development Associate's Degree. <br>From the moment I began, I realized how vast and complex😵‍💫, yet incredibly interesting, this industry can be🧐. <br>Despite my youth, I am confident that I will overcome the challenges this field presents and become a better developer with each problem I encounter😁.</p>
+<p align="left">How ya doing!<br>Since I was little, I've been passionate about programming and the tech industry💻. In 2022, I started studying a Web Applications Development Associate's Degree. <br>From the moment I began, I realized how vast and complex😵‍💫, yet incredibly interesting, this industry can be🧐. <br>Despite my youth, I am confident that I will overcome the challenges this field presents and become a better developer with each problem I encounter😁.</p>
 
 ###
 
