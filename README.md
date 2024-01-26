@@ -1,4 +1,4 @@
-<h1 align="left">Antonio's little world🌍</h1>
+<h1 align="left">Antonio's little world 🌍</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My precious social links👽</h2>
+<h2 align="left">👽 My precious social links</h2>
 
 ###
 
@@ -21,11 +21,11 @@
 
 ###
 
-<h2 align="left">Technologies!🧪</h2>
+<h2 align="left">🧪 Technologies!</h2>
 
 ###
 
-<h3 align="left">Design</h3>
+<h3 align="left">🎨 Design</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">🔍 Frontend</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="left">🗄 Backend</h3>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">Frameworks(Still learning🤓)</h3>
+<h3 align="left">⚙️ Frameworks(Still learning🤓)</h3>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<h3 align="left">Miscelaneous</h3>
+<h3 align="left">💊 Miscelaneous</h3>
 
 ###
 
